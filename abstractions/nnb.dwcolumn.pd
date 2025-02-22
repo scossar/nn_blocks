@@ -1,4 +1,4 @@
-#N canvas 1772 70 1059 884 16;
+#N canvas 825 213 1059 884 16;
 #X obj 29 140 inlet bang;
 #X obj 258 717 array set, f 82;
 #X obj 29 717 outlet done;
